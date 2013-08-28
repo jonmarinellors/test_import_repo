@@ -1,0 +1,2 @@
+class Fubar
+end
