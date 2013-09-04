@@ -1,8 +1,9 @@
+# Require some helpers in this collateral
 require_helper "utilities"
 require_helper "errors"
 
-# Prints "Hello World!".
+# Prints "hello_world called...".
 #
 def hello_world
-  puts 'hello world!'
+  puts 'hello_world called...'
 end
